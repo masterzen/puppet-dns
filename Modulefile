@@ -1,0 +1,8 @@
+name    'masterzen-dns'
+version '0.0.1'
+source 'git://github.com/masterzen/puppet-ntp'
+author 'Brice Figureau'
+license 'Apache Version 2.0'
+summary 'DNS Module'
+description 'DNS zone and RR type/provider for AWS Route 53, Zerigo...'
+project_page 'http://github.com/masterzen/puppet-dns'
