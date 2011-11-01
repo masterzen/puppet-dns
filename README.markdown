@@ -26,6 +26,7 @@ The fog.yaml file contains the fog provider and credentials as in this Route 53
 examples:
 
 fog.yaml:
+
 ```
 ---
   provider: aws
